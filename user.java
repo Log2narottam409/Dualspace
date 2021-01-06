@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Updated file
+git cherry-pic command vary imprtant
 git conflits resolved
 =======
 Updated code
