@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+uat branch
+stash command apply
 Updated file
 git conflits resolved
 =======
