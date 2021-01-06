@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Updated file
 git conflits resolved
+git merge command very important
 =======
 Updated code
 testing
