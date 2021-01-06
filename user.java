@@ -1,5 +1,5 @@
 Updated file
 Git command are vary important
 Ihis file contain user info
-
-git branch contain branch name
+Git command are vary important
+git branch comtain branch name
