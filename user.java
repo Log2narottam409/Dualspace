@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Updated file
-
+git conflits resolved
 =======
 Updated code
 testing
