@@ -1,4 +1,5 @@
+Updated code
+testing
 Git command are vary important
-Ihis file contain user info
-Git command are vary important
-git branch comtain branch name
+This file contain user info
+git branch contain branch name
