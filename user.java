@@ -2,6 +2,7 @@
 uat branch
 stash command apply
 Updated file
+git cherry-pic command vary imprtant
 git conflits resolved
 =======
 Updated code
